@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News Gateway (0)</string>
+    <string name="drawer_open">Navigation drawer open</string>
+    <string name="drawer_close">Navigation drawer closed</string>
+
+    <string name="do_a">Do A</string>
+    <string name="do_b">Do B</string>
+    <string name="do_c">Do C</string>
+
+    <string name="Topics">Topics</string>
+    <string name="Countries">Countries</string>
+    <string name="Languages">Languages</string>
+    <string name="ClearAll">Clear All</string>
+    <string name="article_image">article image</string>
+</resources>

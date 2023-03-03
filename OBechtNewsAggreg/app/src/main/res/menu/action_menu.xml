@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuTopics"
+        android:title="@string/Topics">
+        <menu android:id="@+id/topicMenu">
+            <item
+                android:id="@+id/item1"
+                android:title="@+id/dummyData"></item>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menuCountries"
+        android:title="@string/Countries">
+        <menu android:id="@+id/countryMenu">
+            <item
+                android:id="@+id/item2"
+                android:title="@+id/dummyData"></item>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menuLanguages"
+        android:title="@string/Languages">
+        <menu android:id="@+id/languageMenu">
+            <item
+                android:id="@+id/item3"
+                android:title="@+id/dummyData"></item>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menuClearAll"
+        android:title="@string/ClearAll" />
+
+</menu>
